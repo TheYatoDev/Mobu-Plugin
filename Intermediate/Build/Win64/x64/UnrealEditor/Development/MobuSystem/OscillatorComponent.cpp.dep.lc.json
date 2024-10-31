@@ -1,0 +1,15 @@
+{
+    "Version": "1.2",
+    "Data": {
+        "Source": "e:\\unreal engine\\source projects\\projectmania\\plugins\\mobusystem\\source\\mobusystem\\private\\component\\oscillatorcomponent.cpp",
+        "ProvidedModule": "",
+        "PCH": "e:\\unreal engine\\source projects\\projectmania\\intermediate\\build\\win64\\x64\\projectmaniaeditor\\development\\unrealed\\sharedpch.unrealed.project.valapi.cpp20.h.pch",
+        "Includes": [
+            "e:\\unreal engine\\source projects\\projectmania\\plugins\\mobusystem\\intermediate\\build\\win64\\x64\\unrealeditor\\development\\mobusystem\\definitions.mobusystem.h",
+            "e:\\unreal engine\\source projects\\projectmania\\plugins\\mobusystem\\source\\mobusystem\\public\\component\\oscillatorcomponent.h",
+            "e:\\unreal engine\\source projects\\projectmania\\plugins\\mobusystem\\intermediate\\build\\win64\\unrealeditor\\inc\\mobusystem\\uht\\oscillatorcomponent.generated.h"
+        ],
+        "ImportedModules": [],
+        "ImportedHeaderUnits": []
+    }
+}

@@ -1,0 +1,22 @@
+{
+    "Version": "1.2",
+    "Data": {
+        "Source": "e:\\unreal engine\\source projects\\projectmania\\plugins\\mobusystem\\source\\mobusystem\\private\\item\\collectable\\collectable.cpp",
+        "ProvidedModule": "",
+        "PCH": "e:\\unreal engine\\source projects\\projectmania\\intermediate\\build\\win64\\x64\\projectmaniaeditor\\development\\unrealed\\sharedpch.unrealed.project.valapi.cpp20.h.pch",
+        "Includes": [
+            "e:\\unreal engine\\source projects\\projectmania\\plugins\\mobusystem\\intermediate\\build\\win64\\x64\\unrealeditor\\development\\mobusystem\\definitions.mobusystem.h",
+            "e:\\unreal engine\\source projects\\projectmania\\plugins\\mobusystem\\source\\mobusystem\\public\\item\\collectable\\collectable.h",
+            "e:\\unreal engine\\source projects\\projectmania\\plugins\\mobusystem\\source\\mobusystem\\public\\item\\mobuitembase.h",
+            "e:\\unreal engine\\source projects\\projectmania\\plugins\\mobusystem\\source\\mobusystem\\public\\interface\\mobuinterface.h",
+            "e:\\unreal engine\\source projects\\projectmania\\plugins\\mobusystem\\intermediate\\build\\win64\\unrealeditor\\inc\\mobusystem\\uht\\mobuinterface.generated.h",
+            "e:\\unreal engine\\source projects\\projectmania\\plugins\\mobusystem\\intermediate\\build\\win64\\unrealeditor\\inc\\mobusystem\\uht\\mobuitembase.generated.h",
+            "e:\\unreal engine\\source projects\\projectmania\\plugins\\mobusystem\\intermediate\\build\\win64\\unrealeditor\\inc\\mobusystem\\uht\\collectable.generated.h",
+            "f:\\epic games\\ue5\\ue_5.4\\engine\\source\\runtime\\engine\\classes\\kismet\\kismetsystemlibrary.h",
+            "f:\\epic games\\ue5\\ue_5.4\\engine\\source\\runtime\\coreuobject\\public\\uobject\\propertyaccessutil.h",
+            "f:\\epic games\\ue5\\ue_5.4\\engine\\intermediate\\build\\win64\\unrealeditor\\inc\\engine\\uht\\kismetsystemlibrary.generated.h"
+        ],
+        "ImportedModules": [],
+        "ImportedHeaderUnits": []
+    }
+}
