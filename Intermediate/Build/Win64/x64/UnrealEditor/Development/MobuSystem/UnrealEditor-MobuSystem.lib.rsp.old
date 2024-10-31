@@ -16,5 +16,6 @@
 "E:\Unreal Engine\Source Projects\ProjectMania\Plugins\MobuSystem\Intermediate\Build\Win64\x64\UnrealEditor\Development\MobuSystem\MobuInterface.cpp.obj"
 "E:\Unreal Engine\Source Projects\ProjectMania\Plugins\MobuSystem\Intermediate\Build\Win64\x64\UnrealEditor\Development\MobuSystem\MobuItemBase.cpp.obj"
 "E:\Unreal Engine\Source Projects\ProjectMania\Plugins\MobuSystem\Intermediate\Build\Win64\x64\UnrealEditor\Development\MobuSystem\Collectable.cpp.obj"
+"E:\Unreal Engine\Source Projects\ProjectMania\Plugins\MobuSystem\Intermediate\Build\Win64\x64\UnrealEditor\Development\MobuSystem\MobuNPC.cpp.obj"
 "E:\Unreal Engine\Source Projects\ProjectMania\Plugins\MobuSystem\Intermediate\Build\Win64\x64\UnrealEditor\Development\MobuSystem\Default.rc2.res"
 /OUT:"E:\Unreal Engine\Source Projects\ProjectMania\Plugins\MobuSystem\Intermediate\Build\Win64\x64\UnrealEditor\Development\MobuSystem\UnrealEditor-MobuSystem.lib"

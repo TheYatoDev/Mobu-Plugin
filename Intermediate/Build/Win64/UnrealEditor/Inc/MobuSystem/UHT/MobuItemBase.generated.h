@@ -15,12 +15,12 @@ class USceneComponent;
 #endif
 #define MOBUSYSTEM_MobuItemBase_generated_h
 
-#define FID_ProjectMania_Plugins_MobuSystem_Source_MobuSystem_Public_Item_MobuItemBase_h_15_RPC_WRAPPERS_NO_PURE_DECLS \
+#define FID_Unreal_Projects_MobuPlugin_Plugins_MobuSystem_Source_MobuSystem_Public_Item_MobuItemBase_h_15_RPC_WRAPPERS_NO_PURE_DECLS \
 	DECLARE_FUNCTION(execGetInteractionTextAttach); \
 	DECLARE_FUNCTION(execGetInteractionText);
 
 
-#define FID_ProjectMania_Plugins_MobuSystem_Source_MobuSystem_Public_Item_MobuItemBase_h_15_INCLASS_NO_PURE_DECLS \
+#define FID_Unreal_Projects_MobuPlugin_Plugins_MobuSystem_Source_MobuSystem_Public_Item_MobuItemBase_h_15_INCLASS_NO_PURE_DECLS \
 private: \
 	static void StaticRegisterNativesAMobuItemBase(); \
 	friend struct Z_Construct_UClass_AMobuItemBase_Statics; \
@@ -30,7 +30,7 @@ public: \
 	virtual UObject* _getUObject() const override { return const_cast<AMobuItemBase*>(this); }
 
 
-#define FID_ProjectMania_Plugins_MobuSystem_Source_MobuSystem_Public_Item_MobuItemBase_h_15_ENHANCED_CONSTRUCTORS \
+#define FID_Unreal_Projects_MobuPlugin_Plugins_MobuSystem_Source_MobuSystem_Public_Item_MobuItemBase_h_15_ENHANCED_CONSTRUCTORS \
 private: \
 	/** Private move- and copy-constructors, should never be used */ \
 	AMobuItemBase(AMobuItemBase&&); \
@@ -42,13 +42,13 @@ public: \
 	NO_API virtual ~AMobuItemBase();
 
 
-#define FID_ProjectMania_Plugins_MobuSystem_Source_MobuSystem_Public_Item_MobuItemBase_h_12_PROLOG
-#define FID_ProjectMania_Plugins_MobuSystem_Source_MobuSystem_Public_Item_MobuItemBase_h_15_GENERATED_BODY \
+#define FID_Unreal_Projects_MobuPlugin_Plugins_MobuSystem_Source_MobuSystem_Public_Item_MobuItemBase_h_12_PROLOG
+#define FID_Unreal_Projects_MobuPlugin_Plugins_MobuSystem_Source_MobuSystem_Public_Item_MobuItemBase_h_15_GENERATED_BODY \
 PRAGMA_DISABLE_DEPRECATION_WARNINGS \
 public: \
-	FID_ProjectMania_Plugins_MobuSystem_Source_MobuSystem_Public_Item_MobuItemBase_h_15_RPC_WRAPPERS_NO_PURE_DECLS \
-	FID_ProjectMania_Plugins_MobuSystem_Source_MobuSystem_Public_Item_MobuItemBase_h_15_INCLASS_NO_PURE_DECLS \
-	FID_ProjectMania_Plugins_MobuSystem_Source_MobuSystem_Public_Item_MobuItemBase_h_15_ENHANCED_CONSTRUCTORS \
+	FID_Unreal_Projects_MobuPlugin_Plugins_MobuSystem_Source_MobuSystem_Public_Item_MobuItemBase_h_15_RPC_WRAPPERS_NO_PURE_DECLS \
+	FID_Unreal_Projects_MobuPlugin_Plugins_MobuSystem_Source_MobuSystem_Public_Item_MobuItemBase_h_15_INCLASS_NO_PURE_DECLS \
+	FID_Unreal_Projects_MobuPlugin_Plugins_MobuSystem_Source_MobuSystem_Public_Item_MobuItemBase_h_15_ENHANCED_CONSTRUCTORS \
 private: \
 PRAGMA_ENABLE_DEPRECATION_WARNINGS
 
@@ -56,7 +56,7 @@ PRAGMA_ENABLE_DEPRECATION_WARNINGS
 template<> MOBUSYSTEM_API UClass* StaticClass<class AMobuItemBase>();
 
 #undef CURRENT_FILE_ID
-#define CURRENT_FILE_ID FID_ProjectMania_Plugins_MobuSystem_Source_MobuSystem_Public_Item_MobuItemBase_h
+#define CURRENT_FILE_ID FID_Unreal_Projects_MobuPlugin_Plugins_MobuSystem_Source_MobuSystem_Public_Item_MobuItemBase_h
 
 
 PRAGMA_ENABLE_DEPRECATION_WARNINGS

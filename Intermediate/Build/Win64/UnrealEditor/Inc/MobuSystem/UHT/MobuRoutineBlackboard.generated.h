@@ -14,7 +14,7 @@ PRAGMA_DISABLE_DEPRECATION_WARNINGS
 #endif
 #define MOBUSYSTEM_MobuRoutineBlackboard_generated_h
 
-#define FID_ProjectMania_Plugins_MobuSystem_Source_MobuSystem_Public_AI_MobuRoutineBlackboard_h_15_INCLASS_NO_PURE_DECLS \
+#define FID_Unreal_Projects_MobuPlugin_Plugins_MobuSystem_Source_MobuSystem_Public_AI_MobuRoutineBlackboard_h_15_INCLASS_NO_PURE_DECLS \
 private: \
 	static void StaticRegisterNativesUMobuRoutineBlackboard(); \
 	friend struct Z_Construct_UClass_UMobuRoutineBlackboard_Statics; \
@@ -23,7 +23,7 @@ public: \
 	DECLARE_SERIALIZER(UMobuRoutineBlackboard)
 
 
-#define FID_ProjectMania_Plugins_MobuSystem_Source_MobuSystem_Public_AI_MobuRoutineBlackboard_h_15_ENHANCED_CONSTRUCTORS \
+#define FID_Unreal_Projects_MobuPlugin_Plugins_MobuSystem_Source_MobuSystem_Public_AI_MobuRoutineBlackboard_h_15_ENHANCED_CONSTRUCTORS \
 	/** Standard constructor, called after all reflected properties have been initialized */ \
 	NO_API UMobuRoutineBlackboard(const FObjectInitializer& ObjectInitializer = FObjectInitializer::Get()); \
 private: \
@@ -37,12 +37,12 @@ public: \
 	NO_API virtual ~UMobuRoutineBlackboard();
 
 
-#define FID_ProjectMania_Plugins_MobuSystem_Source_MobuSystem_Public_AI_MobuRoutineBlackboard_h_12_PROLOG
-#define FID_ProjectMania_Plugins_MobuSystem_Source_MobuSystem_Public_AI_MobuRoutineBlackboard_h_15_GENERATED_BODY \
+#define FID_Unreal_Projects_MobuPlugin_Plugins_MobuSystem_Source_MobuSystem_Public_AI_MobuRoutineBlackboard_h_12_PROLOG
+#define FID_Unreal_Projects_MobuPlugin_Plugins_MobuSystem_Source_MobuSystem_Public_AI_MobuRoutineBlackboard_h_15_GENERATED_BODY \
 PRAGMA_DISABLE_DEPRECATION_WARNINGS \
 public: \
-	FID_ProjectMania_Plugins_MobuSystem_Source_MobuSystem_Public_AI_MobuRoutineBlackboard_h_15_INCLASS_NO_PURE_DECLS \
-	FID_ProjectMania_Plugins_MobuSystem_Source_MobuSystem_Public_AI_MobuRoutineBlackboard_h_15_ENHANCED_CONSTRUCTORS \
+	FID_Unreal_Projects_MobuPlugin_Plugins_MobuSystem_Source_MobuSystem_Public_AI_MobuRoutineBlackboard_h_15_INCLASS_NO_PURE_DECLS \
+	FID_Unreal_Projects_MobuPlugin_Plugins_MobuSystem_Source_MobuSystem_Public_AI_MobuRoutineBlackboard_h_15_ENHANCED_CONSTRUCTORS \
 private: \
 PRAGMA_ENABLE_DEPRECATION_WARNINGS
 
@@ -50,7 +50,7 @@ PRAGMA_ENABLE_DEPRECATION_WARNINGS
 template<> MOBUSYSTEM_API UClass* StaticClass<class UMobuRoutineBlackboard>();
 
 #undef CURRENT_FILE_ID
-#define CURRENT_FILE_ID FID_ProjectMania_Plugins_MobuSystem_Source_MobuSystem_Public_AI_MobuRoutineBlackboard_h
+#define CURRENT_FILE_ID FID_Unreal_Projects_MobuPlugin_Plugins_MobuSystem_Source_MobuSystem_Public_AI_MobuRoutineBlackboard_h
 
 
 PRAGMA_ENABLE_DEPRECATION_WARNINGS

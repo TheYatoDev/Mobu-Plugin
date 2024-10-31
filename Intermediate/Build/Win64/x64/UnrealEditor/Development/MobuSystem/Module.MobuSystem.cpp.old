@@ -17,5 +17,4 @@
 #include "E:/Unreal Engine/Source Projects/ProjectMania/Plugins/MobuSystem/Intermediate/Build/Win64/UnrealEditor/Inc/MobuSystem/UHT/TaskMode.gen.cpp"
 #include "E:/Unreal Engine/Source Projects/ProjectMania/Plugins/MobuSystem/Intermediate/Build/Win64/UnrealEditor/Inc/MobuSystem/UHT/TaskOrder.gen.cpp"
 #include "E:/Unreal Engine/Source Projects/ProjectMania/Plugins/MobuSystem/Source/MobuSystem/Private/Core/MobuManager.cpp"
-#include "E:/Unreal Engine/Source Projects/ProjectMania/Plugins/MobuSystem/Source/MobuSystem/Private/MobuNPC/MobuNPC.cpp"
 #include "E:/Unreal Engine/Source Projects/ProjectMania/Plugins/MobuSystem/Source/MobuSystem/Private/MobuSystem.cpp"
